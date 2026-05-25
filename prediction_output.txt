@@ -1,0 +1,12 @@
+Heart Disease Predictions
+
+Patient 1: Heart Disease Detected
+Patient 2: Heart Disease Detected
+Patient 3: No Heart Disease
+Patient 4: Heart Disease Detected
+Patient 5: No Heart Disease
+Patient 6: Heart Disease Detected
+Patient 7: No Heart Disease
+Patient 8: No Heart Disease
+Patient 9: Heart Disease Detected
+Patient 10: No Heart Disease
